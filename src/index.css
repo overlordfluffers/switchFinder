@@ -6,6 +6,40 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.App {
+  background-color: #455058;
+  min-height: 100vh;
+  display: grid;
+  grid-template-areas:
+          "clock settings"
+          "results results";
+  grid-template-columns: 300px auto;
+  grid-template-rows: 300px auto;
+}
+
+.clock{
+  grid-area: clock;
+}
+
+.settings{
+  grid-area: settings;
+}
+
+canvas {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+
+.input{
+  display: flex;
+  flex-direction: row;
+}
+
+.results{
+  grid-area: results;
+  color:white;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
