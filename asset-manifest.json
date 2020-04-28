@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/switchFinder/static/css/main.2d84300e.chunk.css",
+    "main.js": "/switchFinder/static/js/main.d43f212c.chunk.js",
+    "main.js.map": "/switchFinder/static/js/main.d43f212c.chunk.js.map",
+    "runtime-main.js": "/switchFinder/static/js/runtime-main.90e3f94f.js",
+    "runtime-main.js.map": "/switchFinder/static/js/runtime-main.90e3f94f.js.map",
+    "static/js/2.6eda957b.chunk.js": "/switchFinder/static/js/2.6eda957b.chunk.js",
+    "static/js/2.6eda957b.chunk.js.map": "/switchFinder/static/js/2.6eda957b.chunk.js.map",
+    "index.html": "/switchFinder/index.html",
+    "precache-manifest.17734989643812a2ad37a2f62a353b94.js": "/switchFinder/precache-manifest.17734989643812a2ad37a2f62a353b94.js",
+    "service-worker.js": "/switchFinder/service-worker.js",
+    "static/css/main.2d84300e.chunk.css.map": "/switchFinder/static/css/main.2d84300e.chunk.css.map",
+    "static/js/2.6eda957b.chunk.js.LICENSE.txt": "/switchFinder/static/js/2.6eda957b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90e3f94f.js",
+    "static/js/2.6eda957b.chunk.js",
+    "static/css/main.2d84300e.chunk.css",
+    "static/js/main.d43f212c.chunk.js"
+  ]
+}
